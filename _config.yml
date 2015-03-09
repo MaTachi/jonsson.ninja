@@ -3,6 +3,7 @@
 title:            jonsson.ninja
 locale:           en_US
 url:              
+share:            false
 
 
 # Jekyll configuration
