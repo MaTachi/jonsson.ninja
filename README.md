@@ -18,4 +18,4 @@ Start a local web server with:
 
 ## Upload the site to the host
 
-    $ scp -r _site/* [hostname]:[folder]
+    $ rsync -zr --delete --stats _site/ [hostname]:[directory]
