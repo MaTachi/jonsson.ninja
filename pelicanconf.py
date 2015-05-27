@@ -24,6 +24,14 @@ THEME='pelican-svbhack'
 USER_LOGO_URL=SITEURL + '/images/bio-photo.jpg'
 TAGLINE='Swedish software engineering student.'
 
+# Plugins
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = ['sitemap']
+
+SITEMAP = {
+    'format': 'xml'
+}
+
 # URL
 ARCHIVES_SAVE_AS = 'posts/index.html'
 ARCHIVES_URL = 'posts/'
