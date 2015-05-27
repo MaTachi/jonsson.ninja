@@ -11,7 +11,7 @@ License
 =======
 
 Whatever code I have written for the site is licensed under the `MIT License
-<LICENSE>`_ and the content (blog posts and images) are licensed under the `CC
+<LICENSE>`_ and the content (blog posts and images) is licensed under the `CC
 BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_.
 
 Set up
@@ -25,8 +25,8 @@ Install dependencies:
     $ source env/bin/activate
     $ pip install -r requirements.txt
 
-Development
-===========
+Develop
+=======
 
 Start a local web server with:
 
