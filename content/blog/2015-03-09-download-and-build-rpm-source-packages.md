@@ -69,9 +69,8 @@ directory `~/rpmbuild/RPMS/noarch`:
 Since I am running Gnome Shell, I will only install the RPMs
 `verne-backgrounds-gnome` and `verne-backgrounds-single`:
 
-{% highlight bash %}
-$ sudo rpm -i verne-backgrounds-gnome-15.92.1-8.fc21.noarch.rpm verne-backgrounds-single-15.92.1-8.fc21.noarch.rpm
-{% endhighlight %}
+    :::bash
+    $ sudo rpm -i verne-backgrounds-gnome-15.92.1-8.fc21.noarch.rpm verne-backgrounds-single-15.92.1-8.fc21.noarch.rpm
 
 The wallpaper does now apper in the background selection tool in Gnome:
 
